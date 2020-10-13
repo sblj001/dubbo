@@ -40,7 +40,7 @@
         <net.sf.json.version>2.3</net.sf.json.version>
         <spring.version>5.1.7.RELEASE</spring.version>
         <aspectj.version>1.8.12</aspectj.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <netty.version>4.1.36.Final</netty.version>
         <curator.version>4.2.0</curator.version>
         <dubbo.project.version>1.0</dubbo.project.version>
